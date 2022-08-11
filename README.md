@@ -102,6 +102,15 @@ To rebase source code, Follow bellow step:
 
 ### Squash commits 
 
+In Git you can merge several commits into one with the powerful interactive rebase. It's a handy tool I use quite often; I usually tidy up my working space by grouping together several small intermediate commits into a single lump to push upstream.
+
+```sh
+git rebase -i HEAD~N
+```
+where N is the number of commits you want to join, starting from the most recent one.
+
+More: https://www.internalpointers.com/post/squash-commits-into-one-git
+
 ### Pull request
 
 A pull request – also referred to as a merge request – is an event that takes place in software development when a contributor/developer is ready to begin the process of merging new code changes with the main project repository.
