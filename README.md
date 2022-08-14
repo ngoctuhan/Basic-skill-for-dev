@@ -24,3 +24,13 @@ In this repo will contains many markdown files & scripts about typical topic in 
 
 - Bash script 
     - Introduce bash script & using bs to write some service & micro basic task. 
+
+- Anything
+    - Introduce any skill other 
+
+## Questions & Contributions 
+
+If you has any question about this repo or want to join and contribute for repo, don't hesitant connect with me. 
+
+"[Facebook](https://www.facebook.com/)"
+"[Email](trunguyht11@gmail.com)"
