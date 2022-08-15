@@ -17,7 +17,7 @@ In this repo will contains many markdown files & scripts about typical topic in 
     - How to run a image through a container from command line or from docker-compose.yml 
 - Jenskin:
     - Introduce CI/CI 
-    - Practice CI/CD with Linux Sever & Jenskin % Gitlab for reality python project.
+    - Practice CI/CD with Linux Sever & Jenskin combine with Gitlab to implement reality python project.
 
 - Balance loading with nginx
     - Practice balance loading with nginx for a web api server. 
@@ -32,5 +32,6 @@ In this repo will contains many markdown files & scripts about typical topic in 
 
 If you has any question about this repo or want to join and contribute for repo, don't hesitant connect with me. 
 
-"[Facebook](https://www.facebook.com/)"
-"[Email](trunguyht11@gmail.com)"
+- "[Facebook](https://www.facebook.com/)"
+
+- "[Email](trunguyht11@gmail.com)"
